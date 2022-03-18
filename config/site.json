@@ -1,4 +1,6 @@
-"protectedRoutes": [
-  "/Private",
-  "/Images"
-],
+{
+  "protectedRoutes": [
+    "/Private",
+    "/Images"
+  ]
+}
